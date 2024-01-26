@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(7, 7, 7);
+}
+.motivation{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+
+}
+img{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+    border: 5px solid yellow;  
+    padding: 20px; 
+}
+h1{
+    text-align: center;
+    color:tomato;
+    margin-left: 9%;
+}
+p{
+    text-align: center;
+    margin-left: 10%;
+    color: skyblue;
+}
